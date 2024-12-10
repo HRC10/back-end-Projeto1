@@ -1,5 +1,6 @@
 # back-end-Projeto1
-Este projeto tem como objetivo demonstrar meu conhecimento técnico e também aperfeiçoar meus estudos das tecnologias utilizadas\n
+Este projeto tem como objetivo demonstrar meu conhecimento técnico e também aperfeiçoar meus estudos das tecnologias utilizadas
+
 --tecnologias utilizadas--
  - Node.js v22.11 LTS
  - Express 
