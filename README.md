@@ -6,5 +6,6 @@ Este projeto tem como objetivo demonstrar meu conhecimento técnico e também ap
  - bcrypt 
  - MongoDB 
  - Prisma
+ - cors
  ----------------------------
  - O arquivo route.http é utilizado para teste de comunicação com o servidor usando a extensão do VSCode REST CLIENT 
