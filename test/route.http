@@ -1,0 +1,22 @@
+POST http://localhost:3000/cadastro
+Content-Type: application/json
+
+{
+    "name": "Hugo Cr",
+    "email": "tesssste@teste",
+    "password": "123@123"
+}
+
+###
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+    "email": "teste@teste",
+    "password": "123@123"
+
+}
+
+###
+GET http://localhost:3000/list
+Authorization: I6IkpXVCJ9.eyJpZCI6IjY3NTQ1YjgyYjg5Yzg4NTc1OTIwMjQ4NiIsImlhdCI6MTczMzc3NzQ4MSwiZXhwIjoxNzMzNzc3NTQxfQ.ZZAnGC9pNBV_5Zb0E_SE8goQUPMFQgnT9nUHeH69vZc
